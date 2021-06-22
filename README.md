@@ -1,4 +1,4 @@
-# Bloc Note (bloc_note)
+# NotePad
 
 A Quasar Framework app
 
